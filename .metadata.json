@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ffp",
+    "oncran": true
+  },
+  {
+    "package": "uncorbets",
+    "oncran": true
+  }
+]
