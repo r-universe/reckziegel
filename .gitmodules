@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "epo"]
+	path = epo
+	url = https://github.com/reckziegel/epo
 [submodule "ffp"]
 	path = ffp
 	url = https://github.com/reckziegel/ffp
